@@ -22,7 +22,7 @@
     "events": "^3.2.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "react-native-azure-iotcentral-client": "1.1.2",
+    "react-native-azure-iotcentral-client": "git+https://github.com/jpvosloo/iotc-react-native-device-client.git",
     "react-native-ble-plx": "^2.0.0",
     "react-native-camera": "^3.18.0",
     "react-native-charts-wrapper": "^0.5.7",
